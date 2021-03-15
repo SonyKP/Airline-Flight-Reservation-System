@@ -1,0 +1,140 @@
+*{
+  box-sizing:border-box;
+  margin:0px;
+  padding:0px;
+}
+.search-sec{
+    padding: 2rem;
+}
+.search-slt{
+    display: block;
+    width: 100%;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #55595c;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    height: calc(3rem + 2px) !important;
+    border-radius:0;
+}
+.wrn-btn{
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: capitalize;
+    height: calc(3rem + 2px) !important;
+    border-radius:0;
+}
+.carousel-inner
+{
+  height: 350px;
+}
+.na
+{
+    background-color:rgb(0, 64, 255);
+}
+.bgblack
+{
+    background-color:rgba(0, 64, 255,0.7)
+}
+.font
+{
+    font-size:30px;
+}
+.ml
+{
+margin-left: 40px;
+
+}
+.footer
+{
+    background-color:rgba(0,0,0,0.4);
+}
+.font-size{
+    font-size:30px;
+    padding-right:10px;
+}
+
+.imgs{
+    background-image:url("../img/#.jpg");
+    background-size:cover;
+  background-color:black;
+  
+}
+.search{
+    margin-bottom:100px; 
+}
+#homepage {
+    background-color:#ccedff;
+    width: 800px;
+    font-size: 16px;
+    height: 600px;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+/*############################*/
+
+.jumbotron {
+    background-color: #89c21f;
+    color: #ffffff;
+}
+/* Add a dark blue background color with a little bit see-through */
+.navbar {
+    margin-bottom: 0;
+    background-color: #89c21f;
+    border: 0;
+    font-size: 18px ;
+    letter-spacing: 2px;
+    opacity: 0.9;
+}
+/* Add light blue color to all navbar links */
+.navbar li a, .navbar .navbar-brand {
+    color:  #0066cc;
+}
+/* On hover, the links will turn white */
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color:  #89c21f ;
+    background-color: #fff ;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff ;
+}
+/* Add a dark background color to the footer */
+footer {
+    background-color: #0066cc;
+    color: #fff;
+    padding: 32px;
+    font-size: 18px;
+   
+}
+
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #00ccff;
+    opacity: 0.9;
+}
+
+#smile{
+    width: 200px;
+    height: 200px;
+}
+
+#total{
+    background-color: yellow;
+}
+.imgs{
+    background-image:url("../img/41.jpg");
+   
+    
+}
+
+.bg > div {
+    height: 450px;
+}
+
